@@ -14,7 +14,7 @@ HTML, CSS e JavaScript.
 
 
 
-![desktop](C:\Users\debor\OneDrive\Área de Trabalho\ProgramasJS\pizza-base\desktop.png)
+![desktop](https://github.com/deborasuzuki/Pizzaria/blob/9b0fb3db0169c9823690488d7a5b4c26da95fa99/desktop.png)
 
 
 
